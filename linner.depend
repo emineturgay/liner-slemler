@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1464729664 source:c:\users\asusx555\desktop\linner\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+
